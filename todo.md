@@ -5,3 +5,4 @@
 - [ ] Fix formatting on projects section
 - [ ] Fix Links
 - [ ] Add special dispensations to cover letter
+- [ ] Add example links to languages
