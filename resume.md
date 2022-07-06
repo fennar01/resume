@@ -127,29 +127,37 @@ I created a Solidity smart contract, where holding a specific NFT token grants a
 ![DAO2](/resume-pics/DAO2.png)
 ![DAO3](/resume-pics/DAO3.png)
 
-Crypto Algo-Trading Bot ([View My Codebase](https://github.com/fennar01/AlgoTradingBot))
-: I wrote an algorithmic cryptocurrency trading bot in Python with a Bloomberg Terminal style front-end. I then re-wrote it in Javascript.
+##### Crypto Algo-Trading Bot ([View My Codebase](https://github.com/fennar01/AlgoTradingBot))
 
-Database Reverse Engineering Bot (==Codebase Under Non-Disclosure==)
-: Reverse engineers queryable databases using a key/value pair vulnerability to facilitate local exploration. Can be run in conjunction with Kubernetes to increase velocity.
+_I wrote an algorithmic cryptocurrency trading bot in Python with a Bloomberg Terminal style front-end. I then re-wrote it in Javascript._
 
-Demonstration of the Bernstein-Vazirani Quantum Algorithm ([View My Codebase](https://github.com/fennar01/bernstein-vazirani))
-: A proof of concept of an algorithm, invented in 1991 that demonstrates how theorietically Quantum Computers work faster than classical computers under certain conditions.
+##### Database Reverse Engineering Bot (==Codebase Under Non-Disclosure==)
 
-Database Conversion Program (==Codebase Under Non-Disclosure==)
-: Part of a wider codebase & project specific. This subrepo takes an existing relational database and utilising headers, reformats the code and uploads it using API requests, caching and LocalStorage to a NoSQL database. As it progresses, it also displays progress/issues in a User interface that DevOps engineers can use to resolve issues.
+_Reverse engineers queryable databases using a key/value pair vulnerability to facilitate local exploration. Can be run in conjunction with Kubernetes to increase velocity._
 
-Firebase/React Recipes App ([View My Codebase](https://github.com/fennar01/firebase-recipies-web-app))
-: This was created to demonstrate my ability to build a full stack application. I got react and firebase initialised and working and some relatively decent logic built on the front end.
+#### Demonstration of the Bernstein-Vazirani Quantum Algorithm ([View My Codebase](https://github.com/fennar01/bernstein-vazirani))
 
-Company Dashboard Chrome Extension ([View My Codebase](https://github.com/fennar01/company-dashboard))
-: A chrome extension that showcases company news, the time, local weather etc...
+_A proof of concept of an algorithm, invented in 1991 that demonstrates how theorietically Quantum Computers work faster than classical computers under certain conditions._
 
-Leads Tracker Chrome Extension ([View My Codebase](https://github.com/fennar01/leads-tracker))
-: A chrome extension for sales teams to add leads they find on the internet to their company CRM
+#### Database Conversion Program (==Codebase Under Non-Disclosure==)
 
-Created My Own Cryptocurrency (Tokenised off of the Solana chain) [View FenCoin on Solscan](https://solscan.io/token/8Pm6hMSp4XwCp2tXUBBby2bNqXTDvt7N85PRAoVJ9JtW)
-: This was just curiosity and a joke with some friends. If you'd like some, let me know!
+_Part of a wider codebase & project specific. This subrepo takes an existing relational database and utilising headers, reformats the code and uploads it using API requests, caching and LocalStorage to a NoSQL database. As it progresses, it also displays progress/issues in a User interface that DevOps engineers can use to resolve issues._
+
+#### Firebase/React Recipes App ([View My Codebase](https://github.com/fennar01/firebase-recipies-web-app))
+
+_This was created to demonstrate my ability to build a full stack application. I got react and firebase initialised and working and some relatively decent logic built on the front end._
+
+#### Company Dashboard Chrome Extension ([View My Codebase](https://github.com/fennar01/company-dashboard))
+
+_A chrome extension that showcases company news, the time, local weather etc..._
+
+#### Leads Tracker Chrome Extension ([View My Codebase](https://github.com/fennar01/leads-tracker))
+
+_A chrome extension for sales teams to add leads they find on the internet to their company CRM_
+
+#### Created My Own Cryptocurrency (Tokenised off of the Solana chain) [View FenCoin on Solscan](https://solscan.io/token/8Pm6hMSp4XwCp2tXUBBby2bNqXTDvt7N85PRAoVJ9JtW)
+
+_This was just curiosity and a joke with some friends. If you'd like some, let me know!_
 
 <br>
 
@@ -165,17 +173,7 @@ _24th --> 28th May 2022_
 
 ![image](/resume-pics/quantum-spring-challenge.png)
 
-This is the text description.
-<br>
-
-#### Microsoft - Mixed Reality Dev Days
-
-_8th June --> 8th July 2022_
-
-![image](/resume-pics/mixed-reality.png)
-
-This is the text description.
-
+A variety of complex Quantum problems to be solved over the course of a week.
 <br>
 
 #### HackTheBox - Dirty Money Business CTF 2022
@@ -184,7 +182,7 @@ _15th --> 17th July 2022_
 
 ![image](/resume-pics/hackthebox.png)
 
-This is the text description.
+TBA
 
 <br>
 
