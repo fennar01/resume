@@ -2,13 +2,15 @@
 
 ---
 
-<sup>_Fennar Ralston - 4th July 2022_</sup>
+<sup>_4th July 2022_</sup>
 
 **Thank you for taking the time to read my resume.** Before you dive in, I wanted to make a couple of notes for you I feel are important so you can best understand what you're reading.
 
 1. _I take accurate representation of my skills seriously and don't stretch the truth nor do I mis-represent my skills. What you see here is what you get._
 
 2. _Due to privacy protection and personal security I do not use social media, however I do host a selection of private GitHub links to my work for your exploration. ==If you would like access, please let me know which repos you would like to read and your associaed GitHub username/email and I'll add you ASAP==_
+
+3. _This is a publicly available resume/repo. If you would like clarification or further details on anything, please get in touch._
 
 <br>
 
@@ -157,7 +159,8 @@ Created My Own Cryptocurrency (Tokenised off of the Solana chain) [View FenCoin 
 
 ---
 
-####IBM - Quantum Spring Challenge 2022
+### #IBM - Quantum Spring Challenge 2022
+
 _24th --> 28th May 2022_
 
 ![image](/resume-pics/quantum-spring-challenge.png)
@@ -165,7 +168,8 @@ _24th --> 28th May 2022_
 This is the text description.
 <br>
 
-####Microsoft - Mixed Reality Dev Days
+#### Microsoft - Mixed Reality Dev Days
+
 _8th June --> 8th July 2022_
 
 ![image](/resume-pics/mixed-reality.png)
@@ -174,7 +178,8 @@ This is the text description.
 
 <br>
 
-####HackTheBox - Dirty Money Business CTF 2022  
+#### HackTheBox - Dirty Money Business CTF 2022
+
 _15th --> 17th July 2022_
 
 ![image](/resume-pics/hackthebox.png)
@@ -204,7 +209,8 @@ This is the text description.
 
 ---
 
-###**Consultant** at Cyber Tec Security
+### **Consultant** at Cyber Tec Security
+
 _July 2019 – Present (Remote)_
 
 **Remit:** Business strategy, Marketing, and Software Development
@@ -225,32 +231,14 @@ _Key responsibilities:_
 
 > _“Working with Fennar has been nothing but a real pleasure. He's always eager to help everyone in the company and provide the necessary feedback. He takes into account his employees personal and professional goals, as well as their roadblocks. I have nothing but positive things to say about him as a boss and a person.”_
 >
-> – **Estefania Perez La Torre** _(Worked for me)_
+> – **Estefania** _(Worked for me)_
 
 > _“Top bloke! Enthusiastic, efficient and professional, I look forward to working with him more in the future, cheers Fennar!”_
 >
-> – **Josh Juniper** _(Client)_
+> – **Josh** _(Client)_
 
 > _“Amazing results, friendly and transparent guy - an all round pleasure to work with. We will be recommending Fennar to everyone!”_
 >
-> – **Sam Hicks** _(Client)_
+> – **Sam** _(Client)_
 
 <br>
-
-## Special Dispensations
-
-[{#special-dispensations}]: #
-
----
-
-I am on the spectrum, ergo I have some basic requirements for me to be able to perform my duties effectively.
-<br>
-
-Location Independance & WFH
-: I require the ability to travel and work on any/all timezones at my own secure residence.
-
-Four-Day Week
-: I require a four day week in order to deliver my best performance.
-
-Low-Stress Environment
-: I require a low stress environment such as soft lighting, low noise and friendly, conversational management styles.
