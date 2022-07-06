@@ -1,3 +1,3 @@
 # Tech Resume
 
-Navigate to the resume file to view
+Navigate to the [resume](/resume.md) file to view
