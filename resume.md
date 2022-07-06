@@ -32,7 +32,7 @@
 
 This section will list out the major part of my technical expertise. It's quite dense, as you can see, but I've done my best to break it into rough cetegories to make the content more digestable for you. As with the nature of technology, some category matches are hard to place, so forgive me if anything appears as a category error.
 
-####Languages
+#### Languages
 
 | #   | Languages          | Profficciency Score (_score/10_) |
 | --- | :----------------- | :------------------------------: |
@@ -49,6 +49,7 @@ This section will list out the major part of my technical expertise. It's quite 
 | 11. | PHP                |                3                 |
 
 <br>
+
 #### Frameworks
 
 | #   | Frameworks                                                                       |          Field           |  Language  | Profficciency (_score/10_) |
@@ -65,6 +66,7 @@ This section will list out the major part of my technical expertise. It's quite 
 | 9.  | [Mixed Reality Toolkit](https://docs.microsoft.com/en-gb/windows/mixed-reality/) |    Augmented Reality     |     ~      |             5              |
 
 <br>
+
 #### Environments
 
 | #   | Environments                                                                                                                 | Field                   | Profficciency (_score/10_) |
