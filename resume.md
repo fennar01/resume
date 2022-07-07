@@ -84,8 +84,9 @@ This section will list out the major part of my technical expertise. It's quite 
 | 8.  | [Docker](https://www.docker.com/)                                                                                            | Virtualization          |            7             |
 | 9.  | [Vagrant](https://www.vagrantup.com/)                                                                                        | Environment Development |            5             |
 | 10. | [IBM Cloud](https://www.ibm.com/uk-en/cloud)                                                                                 | Cloud Computing         |            5             |
-| 11. | [Azure](azure.microsoft.com)                                                                                                 | Cloud Computing         |            4             |
-| 12. | [Unreal Engine](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16)     | 3d Rendering            |            3             |
+| 11. | [Colab](https://colab.research.google.com/)                                                                                  | Cloud Computing         |            5             |
+| 12. | [Azure](azure.microsoft.com)                                                                                                 | Cloud Computing         |            4             |
+| 13. | [Unreal Engine](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16)     | 3d Rendering            |            3             |
 
 <br>
 
