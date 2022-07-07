@@ -36,19 +36,19 @@ This section will list out the major part of my technical expertise. It's quite 
 
 #### Languages
 
-| #   | Languages  | Proficiency (_score/10_) |
-| --- | :--------- | :----------------------: |
-| 1.  | HTML       |            10            |
-| 2.  | CSS        |            10            |
-| 3.  | Bash       |            10            |
-| 4.  | Markdown   |            10            |
-| 5.  | Typescript |            10            |
-| 6.  | Solidity   |            8             |
-| 7.  | Python     |            8             |
-| 8.  | SQL        |            7             |
-| 9.  | Powershell |            6             |
-| 10. | Go         |            5             |
-| 11. | PHP        |            3             |
+| #   | Languages         | Proficiency (_score/10_) |
+| --- | :---------------- | :----------------------: |
+| 1.  | HTML              |            10            |
+| 2.  | CSS               |            10            |
+| 3.  | Bash              |            10            |
+| 4.  | Markdown          |            10            |
+| 5.  | Typescript        |            10            |
+| 6.  | Solidity          |            8             |
+| 7.  | Python            |            8             |
+| 8.  | SQL               |            7             |
+| 9.  | Powershell        |            6             |
+| 10. | Go (Learning...)  |            2             |
+| 11. | PHP (Learning...) |            2             |
 
 <br>
 
