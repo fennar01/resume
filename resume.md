@@ -127,11 +127,11 @@ I created a Solidity smart contract, where holding a specific NFT token grants a
 ![DAO2](/resume-pics/DAO2.png)
 ![DAO3](/resume-pics/DAO3.png)
 
-##### Crypto Algo-Trading Bot ([View My Codebase](https://github.com/fennar01/AlgoTradingBot))
+#### Crypto Algo-Trading Bot ([View My Codebase](https://github.com/fennar01/AlgoTradingBot))
 
 _I wrote an algorithmic cryptocurrency trading bot in Python with a Bloomberg Terminal style front-end. I then re-wrote it in Javascript._
 
-##### Database Reverse Engineering Bot (==Codebase Under Non-Disclosure==)
+#### Database Reverse Engineering Bot (==Codebase Under Non-Disclosure==)
 
 _Reverse engineers queryable databases using a key/value pair vulnerability to facilitate local exploration. Can be run in conjunction with Kubernetes to increase velocity._
 
