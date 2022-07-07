@@ -8,7 +8,7 @@
 
 1. _I take accurate representation of my skills seriously and don't stretch the truth nor do I mis-represent my skills. What you see here is what you get._
 
-2. _Due to privacy protection and personal security I do not use social media, however I do host a selection of private GitHub links to my work for your exploration. ==If you would like access, please let me know which repos you would like to read and your associaed GitHub username/email and I'll add you ASAP==_
+2. _Due to privacy protection and personal security I do not use social media, however I do host a selection of private GitHub links to my work for your exploration. ==If you would like access, please let me know which repos you would like to read and your associated GitHub username/email and I'll add you ASAP==_
 
 3. _This is a publicly available resume/repo, as a result, some personally identifiable features have been left out. If you would like clarification or further details on anything, please get in touch._
 
@@ -32,7 +32,7 @@
 
 ---
 
-This section will list out the major part of my technical expertise. It's quite dense, as you can see, but I've done my best to break it into rough cetegories to make the content more digestable for you. As with the nature of technology, some category matches are hard to place, so forgive me if anything appears as a category error.
+This section will list out the major part of my technical expertise. It's quite dense, as you can see, but I've done my best to break it into rough categories to make the content more palatable. As with the nature of technology, some category matches are hard to place, so forgive me if anything appears as a category error.
 
 #### Languages
 
@@ -111,7 +111,7 @@ This section will list out the major part of my technical expertise. It's quite 
 
 ---
 
-### Decentralised Autonomous Organisation ([View My Codebase](https://github.com/fennar01/DAO))
+### Decentralized Autonomous Organization ([View My Codebase](https://github.com/fennar01/DAO))
 
 I created a Solidity smart contract, where holding a specific NFT token grants access to a DAO. These NFT holders may create proposals that other members of the DAO may then vote on. If there is a majority consensus on a proposal after the voting period has ended the DAO can then move forth on acting on said proposal.
 
@@ -137,15 +137,15 @@ _Reverse engineers queryable databases using a key/value pair vulnerability to f
 
 #### Demonstration of the Bernstein-Vazirani Quantum Algorithm ([View My Codebase](https://github.com/fennar01/bernstein-vazirani))
 
-_A proof of concept of an algorithm, invented in 1991 that demonstrates how theorietically Quantum Computers work faster than classical computers under certain conditions._
+_A proof of concept of an algorithm, invented in 1991 that demonstrated how, theoretically, Quantum Computers could work faster than classical computers under certain conditions. This algorithm is definitive proof._
 
 #### Database Conversion Program (==Codebase Under Non-Disclosure==)
 
-_Part of a wider codebase & project specific. This subrepo takes an existing relational database and utilising headers, reformats the code and uploads it using API requests, caching and LocalStorage to a NoSQL database. As it progresses, it also displays progress/issues in a User interface that DevOps engineers can use to resolve issues._
+_Part of a wider codebase & project specific. This subrepo takes an existing relational database and utilizing headers, reformats the code and uploads it using API requests, caching and LocalStorage to a NoSQL database. As it progresses, it also displays progress/issues in a User interface that DevOps engineers can use to resolve issues._
 
 #### Firebase/React Recipes App ([View My Codebase](https://github.com/fennar01/firebase-recipies-web-app))
 
-_This was created to demonstrate my ability to build a full stack application. I got react and firebase initialised and working and some relatively decent logic built on the front end._
+_This was created to demonstrate my ability to build a full stack application. I got react and firebase initialized and working and some relatively decent logic built on the front end._
 
 #### Company Dashboard Chrome Extension ([View My Codebase](https://github.com/fennar01/company-dashboard))
 
@@ -155,7 +155,7 @@ _A chrome extension that showcases company news, the time, local weather etc..._
 
 _A chrome extension for sales teams to add leads they find on the internet to their company CRM_
 
-#### Created My Own Cryptocurrency (Tokenised off of the Solana chain) [View FenCoin on Solscan](https://solscan.io/token/8Pm6hMSp4XwCp2tXUBBby2bNqXTDvt7N85PRAoVJ9JtW)
+#### Created My Own Cryptocurrency (Tokenized off of the Solana chain) [View FenCoin on Solscan](https://solscan.io/token/8Pm6hMSp4XwCp2tXUBBby2bNqXTDvt7N85PRAoVJ9JtW)
 
 _This was just curiosity and a joke with some friends. If you'd like some, let me know!_
 
