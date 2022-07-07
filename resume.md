@@ -92,7 +92,7 @@ This section will list out the major part of my technical expertise. It's quite 
 
 | #   | Courses                               |                             Provider                             |      Field       |
 | --- | :------------------------------------ | :--------------------------------------------------------------: | :--------------: |
-| 1.  | Build Your Own DAO                    |                 [Moralis]("https://moralis.io/")                 |       Web3       |
+| 1.  | Build Your Own DAO                    |                  [Moralis](https://moralis.io/)                  |       Web3       |
 | 2.  | The Complete Quantum Computing Course | [Atil Samancioglu](https://www.udemy.com/user/atil-samancioglu/) | QuantumComputing |
 | 3.  | Front End Developer Career Path       |                 [Scrimba](https://scrimba.com/)                  |      React       |
 | 4.  | Responsive Web Design                 |          [FreeCodeCamp](https://www.freecodecamp.org/)           |    Web Design    |
