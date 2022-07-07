@@ -36,19 +36,20 @@ This section will list out the major part of my technical expertise. It's quite 
 
 #### Languages
 
-| #   | Languages         | Proficiency (_score/10_) |
-| --- | :---------------- | :----------------------: |
-| 1.  | HTML              |            10            |
-| 2.  | CSS               |            10            |
-| 3.  | Bash              |            10            |
-| 4.  | Markdown          |            10            |
-| 5.  | Typescript        |            10            |
-| 6.  | Solidity          |            8             |
-| 7.  | Python            |            8             |
-| 8.  | SQL               |            7             |
-| 9.  | Powershell        |            6             |
-| 10. | Go (Learning...)  |            2             |
-| 11. | PHP (Learning...) |            2             |
+| #   | Languages          | Proficiency (_score/10_) |
+| --- | :----------------- | :----------------------: |
+| 1.  | HTML               |            10            |
+| 2.  | CSS                |            10            |
+| 3.  | Bash               |            10            |
+| 4.  | Markdown           |            10            |
+| 5.  | Typescript         |            10            |
+| 6.  | Solidity           |            8             |
+| 7.  | Python             |            8             |
+| 8.  | SQL                |            7             |
+| 9.  | Powershell         |            6             |
+| 10. | Go (Learning...)   |            2             |
+| 11. | PHP (Learning...)  |            2             |
+| 12. | Ruby (Learning...) |            1             |
 
 <br>
 
@@ -67,6 +68,7 @@ This section will list out the major part of my technical expertise. It's quite 
 | 9.  | [Qiskit](https://qiskit.org/)                                                    |    Quantum Computing     |   Python   |            6             |
 | 10. | [Puppeteer](https://github.com/puppeteer/puppeteer)                              |         Scraping         | Javascript |            6             |
 | 11. | [Mixed Reality Toolkit](https://docs.microsoft.com/en-gb/windows/mixed-reality/) |    Augmented Reality     |     ~      |            5             |
+| 11. | [Tensor Flow](https://www.tensorflow.org/) (Learning...)                         |     Machine Learning     |     ~      |            2             |
 
 <br>
 
