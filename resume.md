@@ -6,7 +6,7 @@
 
 **Thank you for taking the time to read my resume.** Before you dive in, I wanted to make a couple of notes for you I feel are important so you can best understand what you're reading.
 
-1. _I take accurate representation of my skills seriously and don't stretch the truth nor do I mis-represent my skills. What you see here is what you get._
+1. _I take accurate representation of my skills seriously and don't stretch the truth nor do I misrepresent my skills. What you see here is what you get._
 
 2. _Due to privacy protection and personal security I do not use social media, however I do host a selection of private GitHub links to my work for your exploration. **If you would like access, please let me know which repos you would like to read and your associated GitHub username/email and I'll add you ASAP**_
 
