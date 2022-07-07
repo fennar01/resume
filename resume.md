@@ -8,7 +8,7 @@
 
 1. _I take accurate representation of my skills seriously and don't stretch the truth nor do I mis-represent my skills. What you see here is what you get._
 
-2. _Due to privacy protection and personal security I do not use social media, however I do host a selection of private GitHub links to my work for your exploration. ==If you would like access, please let me know which repos you would like to read and your associated GitHub username/email and I'll add you ASAP==_
+2. _Due to privacy protection and personal security I do not use social media, however I do host a selection of private GitHub links to my work for your exploration. **If you would like access, please let me know which repos you would like to read and your associated GitHub username/email and I'll add you ASAP**_
 
 3. _This is a publicly available resume/repo, as a result, some personally identifiable features have been left out. If you would like clarification or further details on anything, please get in touch._
 
@@ -45,9 +45,9 @@ This section will list out the major part of my technical expertise. It's quite 
 | 5.  | Typescript         |            10            |
 | 6.  | Solidity           |            8             |
 | 7.  | Python             |            8             |
-| 8.  | Powershell         |            6             |
-| 9.  | Go                 |            5             |
-| 10. | SQL                |            5             |
+| 8.  | SQL                |            7             |
+| 9.  | Powershell         |            6             |
+| 10. | Go                 |            5             |
 | 11. | PHP                |            3             |
 
 <br>
@@ -57,15 +57,15 @@ This section will list out the major part of my technical expertise. It's quite 
 | #   | Frameworks                                                                       |          Field           |  Language  | Proficiency (_score/10_) |
 | --- | :------------------------------------------------------------------------------- | :----------------------: | :--------: | :----------------------: |
 | 1.  | [Jupyter](https://jupyter.org/)                                                  |         Notebook         |   Python   |            9             |
-| 2.  | [React](https://reactjs.org/)                                                    |       Reusable Web       | Javascript |            8             |
-| 3.  | [Mocha](https://mochajs.org/)                                                    |       Unit Testing       | Javascript |            7             |
-| 4.  | [Git](https://git-scm.com/)                                                      |      Source Control      |     ~      |            9             |
-| 5.  | [Firebase](https://firebase.google.com/)                                         |   Hosting / ML / NoSQL   |  Various   |            7             |
-| 6.  | [Qiskit](https://qiskit.org/)                                                    |    Quantum Computing     |   Python   |            7             |
-| 7.  | [Node.JS](https://nodejs.org/en/)                                                | Back-End General Purpose | Javascript |            9             |
-| 8.  | [Puppeteer](https://github.com/puppeteer/puppeteer)                              |         Scraping         | Javascript |            6             |
-| 9.  | [Wazuh](https://wazuh.com/)                                                      |    Endpoint Security     |     ~      |            7             |
-| 9.  | [Mixed Reality Toolkit](https://docs.microsoft.com/en-gb/windows/mixed-reality/) |    Augmented Reality     |     ~      |            5             |
+| 2.  | [Git](https://git-scm.com/)                                                      |      Source Control      |     ~      |            9             |
+| 3.  | [Node.JS](https://nodejs.org/en/)                                                | Back-End General Purpose | Javascript |            9             |
+| 4.  | [React](https://reactjs.org/)                                                    |       Reusable Web       | Javascript |            8             |
+| 5.  | [Mocha](https://mochajs.org/)                                                    |       Unit Testing       | Javascript |            7             |
+| 6.  | [Firebase](https://firebase.google.com/)                                         |   Hosting / ML / NoSQL   |  Various   |            7             |
+| 7.  | [Wazuh](https://wazuh.com/)                                                      |    Endpoint Security     |     ~      |            7             |
+| 8.  | [Qiskit](https://qiskit.org/)                                                    |    Quantum Computing     |   Python   |            6             |
+| 9.  | [Puppeteer](https://github.com/puppeteer/puppeteer)                              |         Scraping         | Javascript |            6             |
+| 10. | [Mixed Reality Toolkit](https://docs.microsoft.com/en-gb/windows/mixed-reality/) |    Augmented Reality     |     ~      |            5             |
 
 <br>
 
@@ -73,18 +73,18 @@ This section will list out the major part of my technical expertise. It's quite 
 
 | #   | Environments                                                                                                                 | Field                   | Proficiency (_score/10_) |
 | --- | :--------------------------------------------------------------------------------------------------------------------------- | :---------------------- | :----------------------: |
-| 1.  | [Kali Linux](https://www.kali.org/)                                                                                          | Pen-Testing             |            7             |
-| 2.  | [Google Cloud Platform](https://cloud.google.com/)                                                                           | Cloud Computing         |            7             |
-| 3.  | [Azure](azure.microsoft.com)                                                                                                 | Cloud Computing         |            5             |
-| 4.  | [IBM Cloud](https://www.ibm.com/uk-en/cloud)                                                                                 | Cloud Computing         |            5             |
-| 5.  | [Vagrant](https://www.vagrantup.com/)                                                                                        | Environment Development |            6             |
-| 6.  | [VirtualBox](https://www.virtualbox.org/)                                                                                    | Virtualization          |            9             |
-| 7.  | [VMWare](https://www.vmware.com/)                                                                                            | Virtualization          |            9             |
-| 8.  | [Hardhat](https://hardhat.org/)                                                                                              | Web3                    |            9             |
-| 9.  | [Docker](https://www.docker.com/)                                                                                            | Virtualization          |            9             |
-| 9.  | [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16) | Data Management         |            9             |
-| 9.  | [Unreal Engine](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16)     | 3d Rendering            |            3             |
-| 9.  | [Solana Tokenisation](https://soldev.app/?utm_source=solana.com)                                                             | Crypto Tokens           |            9             |
+| 1.  | [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16) | Data Management         |            9             |
+| 2.  | [Solana Tokenisation](https://soldev.app/?utm_source=solana.com)                                                             | Crypto Tokens           |            9             |
+| 3.  | [VirtualBox](https://www.virtualbox.org/)                                                                                    | Virtualization          |            9             |
+| 4.  | [VMWare](https://www.vmware.com/)                                                                                            | Virtualization          |            8             |
+| 5.  | [Kali Linux](https://www.kali.org/)                                                                                          | Pen-Testing             |            7             |
+| 6.  | [Google Cloud Platform](https://cloud.google.com/)                                                                           | Cloud Computing         |            7             |
+| 7.  | [Hardhat](https://hardhat.org/)                                                                                              | Web3                    |            7             |
+| 8.  | [Docker](https://www.docker.com/)                                                                                            | Virtualization          |            7             |
+| 9.  | [Vagrant](https://www.vagrantup.com/)                                                                                        | Environment Development |            5             |
+| 10. | [IBM Cloud](https://www.ibm.com/uk-en/cloud)                                                                                 | Cloud Computing         |            5             |
+| 11. | [Azure](azure.microsoft.com)                                                                                                 | Cloud Computing         |            4             |
+| 12. | [Unreal Engine](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16)     | 3d Rendering            |            3             |
 
 <br>
 
