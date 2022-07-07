@@ -36,19 +36,19 @@ This section will list out the major part of my technical expertise. It's quite 
 
 #### Languages
 
-| #   | Languages          | Proficiency (_score/10_) |
-| --- | :----------------- | :----------------------: |
-| 1.  | HTML ([Example]()) |            10            |
-| 2.  | CSS                |            10            |
-| 3.  | Bash               |            10            |
-| 4.  | Markdown           |            10            |
-| 5.  | Typescript         |            10            |
-| 6.  | Solidity           |            8             |
-| 7.  | Python             |            8             |
-| 8.  | SQL                |            7             |
-| 9.  | Powershell         |            6             |
-| 10. | Go                 |            5             |
-| 11. | PHP                |            3             |
+| #   | Languages  | Proficiency (_score/10_) |
+| --- | :--------- | :----------------------: |
+| 1.  | HTML       |            10            |
+| 2.  | CSS        |            10            |
+| 3.  | Bash       |            10            |
+| 4.  | Markdown   |            10            |
+| 5.  | Typescript |            10            |
+| 6.  | Solidity   |            8             |
+| 7.  | Python     |            8             |
+| 8.  | SQL        |            7             |
+| 9.  | Powershell |            6             |
+| 10. | Go         |            5             |
+| 11. | PHP        |            3             |
 
 <br>
 
@@ -60,12 +60,13 @@ This section will list out the major part of my technical expertise. It's quite 
 | 2.  | [Git](https://git-scm.com/)                                                      |      Source Control      |     ~      |            9             |
 | 3.  | [Node.JS](https://nodejs.org/en/)                                                | Back-End General Purpose | Javascript |            9             |
 | 4.  | [React](https://reactjs.org/)                                                    |       Reusable Web       | Javascript |            8             |
-| 5.  | [Mocha](https://mochajs.org/)                                                    |       Unit Testing       | Javascript |            7             |
-| 6.  | [Firebase](https://firebase.google.com/)                                         |   Hosting / ML / NoSQL   |  Various   |            7             |
-| 7.  | [Wazuh](https://wazuh.com/)                                                      |    Endpoint Security     |     ~      |            7             |
-| 8.  | [Qiskit](https://qiskit.org/)                                                    |    Quantum Computing     |   Python   |            6             |
-| 9.  | [Puppeteer](https://github.com/puppeteer/puppeteer)                              |         Scraping         | Javascript |            6             |
-| 10. | [Mixed Reality Toolkit](https://docs.microsoft.com/en-gb/windows/mixed-reality/) |    Augmented Reality     |     ~      |            5             |
+| 5.  | [Sass](https://sass-lang.com/)                                                   |          Design          |    CSS     |            8             |
+| 6.  | [Mocha](https://mochajs.org/)                                                    |       Unit Testing       | Javascript |            7             |
+| 7.  | [Firebase](https://firebase.google.com/)                                         |   Hosting / ML / NoSQL   |  Various   |            7             |
+| 8.  | [Wazuh](https://wazuh.com/)                                                      |    Endpoint Security     |     ~      |            7             |
+| 9.  | [Qiskit](https://qiskit.org/)                                                    |    Quantum Computing     |   Python   |            6             |
+| 10. | [Puppeteer](https://github.com/puppeteer/puppeteer)                              |         Scraping         | Javascript |            6             |
+| 11. | [Mixed Reality Toolkit](https://docs.microsoft.com/en-gb/windows/mixed-reality/) |    Augmented Reality     |     ~      |            5             |
 
 <br>
 
