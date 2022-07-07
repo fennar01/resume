@@ -10,7 +10,7 @@
 
 2. _Due to privacy protection and personal security I do not use social media, however I do host a selection of private GitHub links to my work for your exploration. ==If you would like access, please let me know which repos you would like to read and your associaed GitHub username/email and I'll add you ASAP==_
 
-3. _This is a publicly available resume/repo. If you would like clarification or further details on anything, please get in touch._
+3. _This is a publicly available resume/repo, as a result, some personally identifiable features have been left out. If you would like clarification or further details on anything, please get in touch._
 
 <br>
 
@@ -90,18 +90,18 @@ This section will list out the major part of my technical expertise. It's quite 
 
 #### Certifications & Courses
 
-| #   | Courses                               |       Provider       |      Field       |
-| --- | :------------------------------------ | :------------------: | :--------------: |
-| 1.  | Build Your Own DAO                    |     [Moralis]()      |       Web3       |
-| 2.  | The Complete Quantum Computing Course | [Atil Samancioglu]() | QuantumComputing |
-| 3.  | Front End Developer Career Path       |     [Scrimba]()      |      React       |
-| 4.  | Responsive Web Design                 |   [FreeCodeCamp]()   |    Web Design    |
-| 5.  | CCNA 200-301                          |  [David Bombbal]()   |    Networking    |
-| 6.  | Python 2                              |    [Codecademy]()    |      Syntax      |
-| 7.  | SQL Injection Fundamentals            |    [HackTheBox]()    |     Red-Team     |
-| 8.  | Web Requests                          |    [HackTheBox]()    |     Red-Team     |
-| 9.  | Javascript Deobfuscation              |    [HackTheBox]()    |     Red-Team     |
-| 10. | Penetration Testing Process           |    [HackTheBox]()    |     Red-Team     |
+| #   | Courses                               |                             Provider                             |      Field       |
+| --- | :------------------------------------ | :--------------------------------------------------------------: | :--------------: |
+| 1.  | Build Your Own DAO                    |                 [Moralis]("https://moralis.io/")                 |       Web3       |
+| 2.  | The Complete Quantum Computing Course | [Atil Samancioglu](https://www.udemy.com/user/atil-samancioglu/) | QuantumComputing |
+| 3.  | Front End Developer Career Path       |                 [Scrimba](https://scrimba.com/)                  |      React       |
+| 4.  | Responsive Web Design                 |          [FreeCodeCamp](https://www.freecodecamp.org/)           |    Web Design    |
+| 5.  | CCNA 200-301                          |            [David Bombbal](https://davidbombal.com/)             |    Networking    |
+| 6.  | Python 2                              |            [Codecademy](https://www.codecademy.com/)             |      Syntax      |
+| 7.  | SQL Injection Fundamentals            |            [HackTheBox](https://www.hackthebox.com/)             |     Red-Team     |
+| 8.  | Web Requests                          |            [HackTheBox](https://www.hackthebox.com/)             |     Red-Team     |
+| 9.  | Javascript Deobfuscation              |            [HackTheBox](https://www.hackthebox.com/)             |     Red-Team     |
+| 10. | Penetration Testing Process           |            [HackTheBox](https://www.hackthebox.com/)             |     Red-Team     |
 
 <br>
 
