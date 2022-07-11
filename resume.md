@@ -134,7 +134,7 @@ _I wrote an algorithmic cryptocurrency trading bot in Python with a Bloomberg Te
 
 #### Database Reverse Engineering Bot (==Codebase Under Non-Disclosure==)
 
-_Reverse engineers queryable databases using a key/value pair vulnerability to facilitate local exploration. Can be run in conjunction with Kubernetes to increase velocity._
+_Reverse engineers queryable databases using a custom key/value pair request to facilitate local exploration. Can be run in conjunction with Kubernetes to increase velocity._
 
 #### Demonstration of the Bernstein-Vazirani Quantum Algorithm ([View My Codebase](https://github.com/fennar01/bernstein-vazirani))
 
