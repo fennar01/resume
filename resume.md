@@ -36,7 +36,7 @@ For the past 8 years, I've been privately consulting and over that time, I've co
 
 I'm re-entering the job market in order to look for a company I can grow with and to give me a sense of belonging. I'm looking for a position to dedicate the next 10 years to, doing work that gives me purpose.
 
-The change has been prompted by a recent dive into the open-source world amongst competing in a hackathon where I've discovered how enjoyable working alongside others can be, and how contributing to a wider, much larger goal can be a very rewarding experience.
+The change has been prompted by a recent dive into the open-source world alongside competing in a hackathon where I've discovered how enjoyable working alongside others can be, and how contributing to a wider, much larger goal can be a very rewarding experience.
 
 #### Rationale
 
@@ -44,11 +44,11 @@ I use a variety of broad principles to streamline my workflows to improve accura
 
 - [First Principles](https://en.wikipedia.org/wiki/First_principle)
 
-I take a first-principles approach to software development by assessing what the overall project goal is and and any sub-goals that need to be attained. I then re-assess what roadblocks/challenges might be faced during the development process in order to reach said goals. Ultimately, anything that falls outside of the remit of attaining a goal can, and should be eliminated. It is important to assess roadblocks in isolation and assess the factors that contributed to its occurrence. Each factor should be assessed individually to elect alternative solutions that could create significant productivity gains as sometimes obvious solutions get overlooked and/or new advancements in technologies allow for new solutions to be created.
+I take a first-principles approach to software development by assessing what the overall project goal is and and any sub-goals that need to be attained. I then re-assess what roadblocks/challenges might be faced during the development process in order to reach said goals. Ultimately, anything that falls outside of the remit of attaining a goal can, and should be eliminated. It is important to assess roadblocks in isolation and assess the factors that contributes to its occurrence. Each factor should be assessed individually to elect alternative solutions that could create significant productivity gains as sometimes obvious solutions get overlooked and/or new advancements in technologies allow for new solutions to be created.
 
 - [The Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle)
 
-In conjunction with first principles, I reason that in order to maintain maximum effectiveness, one must understand our own limitations. One of the primary drains on time/funds for technology projects is spending too long doing things that fail to achieve a proportional amount of productivity. It's reasonable to assume that 80% of software development projects useful code is written in 20% of the available time - so I try to focus on doing as much of the effective 20% as possible and reduce time spent doing non-effective tasks.
+In conjunction with first principles, I reason that in order to maintain maximum effectiveness, we must understand our own limitations. One of the primary drains on time/funds for technology projects is spending too long doing things that fail to achieve a proportional amount of productivity. It's reasonable to assume that 80% of software development projects useful code is written in 20% of the available time - so I try to focus on doing as much of the effective 20% as possible and reduce time spent doing non-effective tasks.
 
 - [Iterative Processing](https://en.wikipedia.org/wiki/Iterative_method#:~:text=In%20computational%20mathematics%2C%20an%20iterative,derived%20from%20the%20previous%20ones.)
 
