@@ -70,6 +70,10 @@ When I first learned about Dynamic problem solving, I remember being surprised t
 
 This is an obvious one, but if your mutating state while functionally programming, make sure functions don't cause side effects or you're going to have a bad time... I've included it here as when your architecture gets more and more complex, it can become more challenging to write cross-language, enterprise level tests so minimizing side-effect as your writing is a must.
 
+#### Behavioral Profiling
+
+![Personality Insights Assessment](/resume-pics/Personality%20Type.png)
+
 ## Hard Skills
 
 [{#hard-skills}]: #
