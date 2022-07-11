@@ -36,7 +36,7 @@ For the past 8 years, I've been privately consulting and over that time, I've co
 
 I'm re-entering the job market in order to look for a company I can grow with and to give me a sense of belonging. I'm looking for a position to dedicate the next 10 years to, doing work that gives me purpose.
 
-The change has been prompted by a recent dive into the open-source world amongst competing in a hackathons where I've discovered how enjoyable working alongside others can be, and how contributing to a wider much larger goal can be a very rewarding experience.
+The change has been prompted by a recent dive into the open-source world amongst competing in a hackathon where I've discovered how enjoyable working alongside others can be, and how contributing to a wider much larger goal can be a very rewarding experience.
 
 #### Rationale
 
