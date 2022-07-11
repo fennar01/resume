@@ -72,7 +72,7 @@ This is an obvious one, but if your mutating state while functionally programmin
 
 #### Behavioral Profiling
 
-![Personality Insights Assessment](/resume-pics/Personality%20Type.png)
+<img src="/resume-pics/Personality%20Type.png" alt="Personality Insights" width="200"/>
 
 ## Hard Skills
 
