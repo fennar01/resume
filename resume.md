@@ -10,7 +10,9 @@
 
 2. _Due to privacy protection and personal security I do not use social media, however I do host a selection of private GitHub links to my work for your exploration. **If you would like access, please let me know which repos you would like to read and your associated GitHub username/email and I'll add you ASAP**_
 
-3. _This is a publicly available resume/repo, as a result, some personally identifiable features have been left out. If you would like clarification or further details on anything, please get in touch. It is also a living document, so if you find an error - please let me know!_
+3. _This is a publicly available resume/repo, as a result, some personally identifiable features have been left out. If you would like clarification or further details on anything, please get in touch._
+
+4. _This is a living document, so if you find an error - please let me know!_
 
 <br>
 
