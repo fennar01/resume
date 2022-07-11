@@ -6,7 +6,7 @@
 
 **Thank you for taking the time to read my resume.** Before you dive in, I wanted to make a couple of notes for you I feel are important so you can best understand what you're reading.
 
-1. Due to privacy protection and personal security I do not use social media, however I do host a selection of private GitHub links to my work for your exploration. **If you would like access, please let me know which repos you would like to read and your associated GitHub username/email and I'll add you ASAP**\_
+1. _Due to privacy protection and personal security I do not use social media, however I do host a selection of private GitHub links to my work for your exploration. **If you would like access, please let me know which repos you would like to read and your associated GitHub username/email and I'll add you ASAP**_
 
 2. _This is a publicly available resume/repo, as a result, some personally identifiable features have been left out. If you would like clarification or further details on anything, please get in touch._
 
@@ -30,7 +30,7 @@
 
 ---
 
-This section will list out the major part of my technical expertise. It's quite dense, as you can see, but I've done my best to break it into rough categories to make the content more palatable. As with the nature of technology, some category matches are hard to place, so forgive me if anything appears as a category error.
+This section will list out the major part of my technical expertise. As is the nature of technology, some category matches are hard to place, so forgive me if anything appears as a category error.
 
 #### Languages
 
