@@ -64,9 +64,9 @@ Less is more. If you can find a way of refactoring to remove elements and make y
 
 When I first learned about Dynamic problem solving, I remember being surprised that this wasn't the way that everyone did it. For some reason, I've always taken a dynamic approach to problem solving as it appeared to me to be the most elegant and efficient - it wasn't until I learned about the bottom-up approach that I learned that there were even other ways of doing it! Suffice to say, I still use a dynamic programming approach to algorithm design.
 
-- Eliminate Side-Effects when functionally programming
+- Eliminate Side-Effects
 
-This is an obvious one, but if your mutating state, make sure functions don't cause side effects or you're going to have a bad time... I've included it here as when your architecture gets more and more complex, it can become more challenging to write cross-language, enterprise level tests so minimizing side-effect as your writing is a must.
+This is an obvious one, but if your mutating state while functionally programming, make sure functions don't cause side effects or you're going to have a bad time... I've included it here as when your architecture gets more and more complex, it can become more challenging to write cross-language, enterprise level tests so minimizing side-effect as your writing is a must.
 
 ## Hard Skills
 
