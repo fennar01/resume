@@ -16,7 +16,7 @@
 
 > |     | Contents                            |
 > | :-- | :---------------------------------- |
-> | 1.  | [Introduction?](#introduction)      |
+> | 1.  | [Introduction](#introduction)       |
 > | 2.  | [Hard Skills](#hard-skills)         |
 > | 3.  | [Projects](#projects)               |
 > | 4.  | [Hackathons & Competitions](#comps) |
