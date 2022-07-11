@@ -6,22 +6,65 @@
 
 **Thank you for taking the time to read my resume.** Before you dive in, I wanted to make a couple of notes for you I feel are important so you can best understand what you're reading.
 
-1. _Due to privacy protection and personal security I do not use social media, however I do host a selection of private GitHub links to my work for your exploration. **If you would like access, please let me know which repos you would like to read and your associated GitHub username/email and I'll add you ASAP**_
+1. _All code is my own, generally I've worked alone and have written/scripted every line of code in my codebase._
 
-2. _This is a publicly available resume/repo, as a result, some personally identifiable features have been left out. If you would like clarification or further details on anything, please get in touch._
+2. _Due to privacy protection and personal security I do not use social media, however I do host a selection of private GitHub links to my work for your exploration. **If you would like access, please let me know which repos you would like to read and your associated GitHub username/email and I'll add you ASAP**_
+
+3. _This is a publicly available resume/repo, as a result, some personally identifiable features have been left out. If you would like clarification or further details on anything, please get in touch._
 
 <br>
 
 > |     | Contents                            |
 > | :-- | :---------------------------------- |
-> | 1.  | [Hard Skills](#hard-skills)         |
-> | 2.  | [Projects](#projects)               |
-> | 3.  | [Hackathons & Competitions](#comps) |
-> | 4.  | [Brands I've worked with](#brands)  |
-> | 5.  | [Employment History](#employment)   |
-> | 6.  | [Testimonials](#testimonials)       |
+> | 1.  | [Why The Change?](#why-the-change)  |
+> | 2.  | [Hard Skills](#hard-skills)         |
+> | 3.  | [Projects](#projects)               |
+> | 4.  | [Hackathons & Competitions](#comps) |
+> | 5.  | [Brands I've worked with](#brands)  |
+> | 6.  | [Employment History](#employment)   |
+> | 7.  | [Testimonials](#testimonials)       |
 
 <br>
+
+## Introduction
+
+[{#introduction}]: #
+
+---
+
+For the past 8 years, I've been privately consulting and over that time, I've come to realize how much I enjoy working in a team, focusing on a common goal.
+
+I'm re-entering the job market in order to look for a company I can grow with and to give me a sense of belonging. I'm looking for a position to dedicate the next 10 years to, doing work that gives me purpose.
+
+#### Rationale
+
+I use a variety of broad principles to streamline my workflows to improve accuracy, productivity and effectiveness when creating projects:
+
+- [First Principles](https://en.wikipedia.org/wiki/First_principle)
+
+I take a first-principles approach to software development by assessing what the overall project goal is and and any sub-goals that need to be attained. I then re-assess what roadblocks/challenges might be faced during the development process in order to reach said goals. Ultimately, anything that falls outside of the remit of attaining a goal can, and should be eliminated. It is important to assess roadblocks in isolation and assess the factors that contributed to its occurrence. Each factor should be assessed individually to elect alternative solutions that could create significant productivity gains as sometimes obvious solutions get overlooked and/or new advancements in technologies allow for new solutions to be created.
+
+- [The Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle)
+
+In conjunction with first principles, I reason that in order to maintain maximum effectiveness, one must understand our own limitations. One of the primary drains on time/funds for technology projects is spending too long doing things that fail to achieve a proportional amount of productivity. It's reasonable to assume that 80% of software development projects useful code is written in 20% of the available time - so I try to focus on doing as much of the effective 20% as possible and reduce time spent doing non-effective tasks.
+
+- [Iterative Processing](https://en.wikipedia.org/wiki/Iterative_method#:~:text=In%20computational%20mathematics%2C%20an%20iterative,derived%20from%20the%20previous%20ones.)
+
+It's unlikely that a goal or project is going to hit the mark first time - in fact, it's nigh on impossible. In addition, as we progress through a project, we are exposed to new information and our reasoning changes throughout a project. With this understanding, I believe it's important to periodically reassess our goals and our approach, ensuring that we're fully utilizing the Pareto Principle and First principles.
+
+#### Methodology
+
+- Keep It Simple
+
+Less is more. If you can find a way of refactoring to remove elements and make your code more elegant, do it - even if it means a temporary loss in progress because ultimately, it will be made up in productivity gains in the long-run.
+
+- Dynamic Problem Solving (Bottom-Up)
+
+When I first learned about Dynamic problem solving, I remember being surprised that this wasn't the way that everyone did it. For some reason, I've always taken a dynamic approach to problem solving as it appeared to me to be the most elegant and efficient - it wasn't until I learned about the bottom-up approach that I learned that there were even other ways of doing it! Suffice to say, I still use a dynamic programming approach to algorithm design.
+
+- Eliminate Side-Effects when functionally programming
+
+This is an obvious one, but if your mutating state, make sure functions don't cause side effects or you're going to have a bad time... I've included it here as when your architecture gets more and more complex, it can become more challenging to write cross-language, enterprise level tests so minimizing side-effect as your writing is a must.
 
 ## Hard Skills
 
