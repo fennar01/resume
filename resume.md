@@ -12,15 +12,14 @@
 
 <br>
 
-> |     | Contents                                        |
-> | :-- | :---------------------------------------------- |
-> | 1.  | [Hard Skills](#hard-skills)                     |
-> | 2.  | [Projects](#projects)                           |
-> | 3.  | [Hackathons & Competitions](#comps)             |
-> | 4.  | [Brands I've worked with](#brands)              |
-> | 5.  | [Employment History](#employment)               |
-> | 6.  | [Testimonials](#testimonials)                   |
-> | 7.  | [Special Dispensations](#special-dispensations) |
+> |     | Contents                            |
+> | :-- | :---------------------------------- |
+> | 1.  | [Hard Skills](#hard-skills)         |
+> | 2.  | [Projects](#projects)               |
+> | 3.  | [Hackathons & Competitions](#comps) |
+> | 4.  | [Brands I've worked with](#brands)  |
+> | 5.  | [Employment History](#employment)   |
+> | 6.  | [Testimonials](#testimonials)       |
 
 <br>
 
