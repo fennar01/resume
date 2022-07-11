@@ -75,18 +75,17 @@ This section will list out the major part of my technical expertise. It's quite 
 | #   | Environments                                                                                                                 | Field                   | Proficiency (_score/10_) |
 | --- | :--------------------------------------------------------------------------------------------------------------------------- | :---------------------- | :----------------------: |
 | 1.  | [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16) | Data Management         |            9             |
-| 2.  | [Solana Tokenisation](https://soldev.app/?utm_source=solana.com)                                                             | Crypto Tokens           |            9             |
-| 3.  | [VirtualBox](https://www.virtualbox.org/)                                                                                    | Virtualization          |            9             |
-| 4.  | [VMWare](https://www.vmware.com/)                                                                                            | Virtualization          |            8             |
-| 5.  | [Kali Linux](https://www.kali.org/)                                                                                          | Pen-Testing             |            7             |
-| 6.  | [Google Cloud Platform](https://cloud.google.com/)                                                                           | Cloud Computing         |            7             |
-| 7.  | [Hardhat](https://hardhat.org/)                                                                                              | Web3                    |            7             |
-| 8.  | [Docker](https://www.docker.com/)                                                                                            | Virtualization          |            7             |
-| 9.  | [Vagrant](https://www.vagrantup.com/)                                                                                        | Environment Development |            5             |
-| 10. | [IBM Cloud](https://www.ibm.com/uk-en/cloud)                                                                                 | Cloud Computing         |            5             |
-| 11. | [Colab](https://colab.research.google.com/)                                                                                  | Cloud Notebooks         |            5             |
-| 12. | [Azure](azure.microsoft.com)                                                                                                 | Cloud Computing         |            4             |
-| 13. | [Unreal Engine](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16)     | 3d Rendering            |            3             |
+| 2.  | [VirtualBox](https://www.virtualbox.org/)                                                                                    | Virtualization          |            9             |
+| 3.  | [VMWare](https://www.vmware.com/)                                                                                            | Virtualization          |            8             |
+| 4.  | [Kali Linux](https://www.kali.org/)                                                                                          | Pen-Testing             |            7             |
+| 5.  | [Google Cloud Platform](https://cloud.google.com/)                                                                           | Cloud Computing         |            7             |
+| 6.  | [Hardhat](https://hardhat.org/)                                                                                              | Web3                    |            7             |
+| 7.  | [Docker](https://www.docker.com/)                                                                                            | Virtualization          |            7             |
+| 8.  | [Vagrant](https://www.vagrantup.com/)                                                                                        | Environment Development |            5             |
+| 9.  | [IBM Cloud](https://www.ibm.com/uk-en/cloud)                                                                                 | Cloud Computing         |            5             |
+| 10. | [Colab](https://colab.research.google.com/)                                                                                  | Cloud Notebooks         |            5             |
+| 11. | [Azure](azure.microsoft.com)                                                                                                 | Cloud Computing         |            4             |
+| 12. | [Unreal Engine](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16)     | 3d Rendering            |            3             |
 
 <br>
 
