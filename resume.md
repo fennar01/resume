@@ -8,7 +8,7 @@
 
 1. _All code is my own, generally I've worked alone and have written/scripted every line of code in my codebase._
 
-2. _Due to privacy protection and personal security I do not use social media, however I do host a selection of private GitHub links to my work for your exploration. **If you would like access, please let me know which repos you would like to read and your associated GitHub username/email and I'll add you ASAP**_
+2. _Due to privacy protection and personal security I do not use social media, however I do host a selection of private GitHub links to my work for your exploration. **If you would like access, please let me know which repos you would like to read and your associated GitHub username/email and I'll add you ASAP.**_
 
 3. _This is a publicly available resume/repo, as a result, some personally identifiable features have been left out. If you would like clarification or further details on anything, please get in touch._
 
@@ -34,7 +34,7 @@
 
 ---
 
-For the past 8 years, I've been privately consulting and over that time, I've come to realize how much I enjoy working in a team, focusing on a common goal.
+For the past 8 years, I've been privately consulting and over that time, I've come to realize how much I enjoy working in a team and focusing on a common goal.
 
 I'm re-entering the job market in order to look for a company I can grow with and to give me a sense of belonging. I'm looking for a position to dedicate the next 10 years to, doing work that gives me purpose.
 
@@ -246,7 +246,7 @@ TBA
 |                         1                          |                        2                         |                            3                             |                          4                          |
 | :------------------------------------------------: | :----------------------------------------------: | :------------------------------------------------------: | :-------------------------------------------------: |
 |     ![#StayHome](/resume-pics/Picture%201.jpg)     |     ![Altaine](/resume-pics/Picture%202.jpg)     |          ![Dell](/resume-pics/Picture%203.png)           |     ![Deep Focus](/resume-pics/Picture%204.png)     |
-| ![Nutanix](/resume-pics/output-onlinepngtools.png) | ![Mackaye Infosec](/resume-pics/Picture%205.png) |        ![Firebrand](/resume-pics/Picture%206.png)        |     ![C4 Secure](/resume-pics/Picture%207.png)      |
+| ![Nutanix](/resume-pics/output-onlinepngtools.png) | ![Mackaye Infosec](/resume-pics/Picture%205.png) |     ![Microsoft](/resume-pics/microsoft-resized.png)     |     ![C4 Secure](/resume-pics/Picture%207.png)      |
 |     ![Capsikin](/resume-pics/Picture%208.png)      |     ![Knoware](/resume-pics/Picture%209.png)     | ![Secure Point Solutions](/resume-pics/Picture%2010.png) | ![CyberTec Security](/resume-pics/Picture%2011.png) |
 |    ![AviationIT](/resume-pics/Picture%2012.png)    |     ![Akimbo](/resume-pics/Picture%2013.png)     |        ![Solsoft](/resume-pics/Picture%2014.png)         |       ![RTBS](/resume-pics/Picture%2015.png)        |
 
