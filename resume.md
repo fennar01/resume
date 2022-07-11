@@ -174,9 +174,9 @@ I created a Solidity smart contract, where holding a specific NFT token grants a
 > - Polygon
 > - Web3uikit
 
-![DAO1](/resume-pics/DAO1.png)
-![DAO2](/resume-pics/DAO2.png)
-![DAO3](/resume-pics/DAO3.png)
+<img src="/resume-pics/DAO1.png" alt="dao1" width="600" />
+<img src="/resume-pics/DAO2.png" alt="dao2" width="600" />
+<img src="/resume-pics/DAO3.png" alt="dao3" width="600" />
 
 #### Crypto Algo-Trading Bot ([View My Codebase](https://github.com/fennar01/AlgoTradingBot))
 
