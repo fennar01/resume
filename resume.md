@@ -227,16 +227,6 @@ _24th --> 28th May 2022_
 A variety of complex Quantum problems to be solved over the course of a week.
 <br>
 
-#### HackTheBox - Dirty Money Business CTF 2022
-
-_15th --> 17th July 2022_
-
-<img src="/resume-pics/hackthebox.png" alt="hack-the-box" width="800" />
-
-TBA
-
-<br>
-
 ## Brands I've Worked With
 
 [{#brands}]: #
